@@ -1,6 +1,7 @@
 # Pathology-pretreatment
 ## QuPath
 - [QuPath操作手册](https://qupath.readthedocs.io/en/stable/)
+- [QuPath-Youtube视频教程](https://www.youtube.com/playlist?list=PL4ta8RxZklWkPB_pwW-ZDVAGPGktAlE5Y)
 - [QuPath官网](https://qupath.github.io/)
     -[QuPath-Windows下载](https://github.com/qupath/qupath/releases/download/v0.3.2/QuPath-0.3.2-Windows.msi)
 
