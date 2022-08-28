@@ -2,6 +2,7 @@
 ## QuPath
 - [QuPath官网](https://qupath.github.io/)
   - [QuPath-Windows下载](https://github.com/qupath/qupath/releases/download/v0.3.2/QuPath-0.3.2-Windows.msi)
+  - [QuPath-百度网盘下载](https://pan.baidu.com/s/139p-8Brhg2wNtF4KxKFKLw) 提取码：j5fu
 - [QuPath操作手册](https://qupath.readthedocs.io/en/stable/)
 - [QuPath-Youtube官方教程](https://www.youtube.com/playlist?list=PL4ta8RxZklWkPB_pwW-ZDVAGPGktAlE5Y)
 - QuPath-Bilibili(Youtube搬运)
@@ -23,6 +24,13 @@
 
 [样片-biyanai.ome.tif-百度网盘](https://pan.baidu.com/s/1Q2rG6g3pTiKzYmHnXiZGSg) 提取码：piys
 
+[22-21747(文件夹)](链接：https://pan.baidu.com/s/1SBOtt_E8OdH7lmAQbNm8ZQ) 提取码：rsq2
+
+[22-21747.svs](链接：https://pan.baidu.com/s/1VuX18_0kOKZORtFjanHupg) 提取码：hpo0
+
+[22-25887(文件夹)](链接：https://pan.baidu.com/s/1QRaU8YXGtjDpkrQSSB-r3w) 提取码：mtzq
+
+[22-25887.svs](链接：https://pan.baidu.com/s/1HuqFHTyNp8kAdgio9UjdQA) 提取码：hl8p
 ## 图像格式
 - [OME-Supported Formats](https://docs.openmicroscopy.org/bio-formats/6.10.0/supported-formats.html) 
   - [JPEG2000](https://docs.openmicroscopy.org/bio-formats/6.10.0/formats/jpeg-2000.html)
