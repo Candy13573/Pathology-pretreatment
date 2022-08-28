@@ -4,8 +4,8 @@
   - [QuPath-Windows下载](https://github.com/qupath/qupath/releases/download/v0.3.2/QuPath-0.3.2-Windows.msi)（下载速度较慢）
   - [QuPath-百度网盘下载](https://pan.baidu.com/s/139p-8Brhg2wNtF4KxKFKLw) 提取码：j5fu
 - [QuPath操作手册](https://qupath.readthedocs.io/en/stable/) 
-- [QuPath-Youtube官方教程（1-32）](https://www.youtube.com/playlist?list=PL4ta8RxZklWkPB_pwW-ZDVAGPGktAlE5Y)
-- [QuPath教程1-32熟肉(9成熟)](https://pan.baidu.com/s/1g-pDqLka6wp2JyL0jipwHQ) 提取码：n6gj
+- [**QuPath-Youtube官方教程(1-32)**](https://www.youtube.com/playlist?list=PL4ta8RxZklWkPB_pwW-ZDVAGPGktAlE5Y)
+- [**QuPath教程1-32熟肉(9成熟)**](https://pan.baidu.com/s/1g-pDqLka6wp2JyL0jipwHQ) 提取码：n6gj
     - [爱奇艺万能播放器打开自动找字幕->安装包](https://pan.baidu.com/s/1ZwjTu1qpMaUWnUjzYVfpDg) 提取码：f565
 - QuPath-Bilibili(Youtube搬运)
    1. [QuPath tutorial introduction](https://www.bilibili.com/video/BV19g4y1q747?share_source=copy_web&vd_source=4173d061021c466258fdde854d3a23ea)
