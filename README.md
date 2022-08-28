@@ -19,18 +19,19 @@
    11. [Showing and hiding](https://www.bilibili.com/video/BV1yz4y1R7HP?share_source=copy_web&vd_source=4173d061021c466258fdde854d3a23ea)
    12. [QuPath and ImageJ](https://www.bilibili.com/video/BV1MK4y1t7iZ?share_source=copy_web&vd_source=4173d061021c466258fdde854d3a23ea)
 
-## 样片
+## 样片（笔记本内存受限，QuPath只能打开文件大小较小的图片文件或者为 pyramid format file）
+1. [22-21747.svs](https://pan.baidu.com/s/1VuX18_0kOKZORtFjanHupg) 提取码：hpo0
+2. [22-25887.svs](https://pan.baidu.com/s/1HuqFHTyNp8kAdgio9UjdQA) 提取码：hl8p
+
 [样片-2022鼻咽癌.tif-百度网盘](https://pan.baidu.com/s/108RI5yhlXntWhxh4OAMZgA) 提取码：yisa
 
 [样片-biyanai.ome.tif-百度网盘](https://pan.baidu.com/s/1Q2rG6g3pTiKzYmHnXiZGSg) 提取码：piys
 
-[22-21747(文件夹)](https://pan.baidu.com/s/1SBOtt_E8OdH7lmAQbNm8ZQ) 提取码：rsq2
+### 用Motic DSAssistant（打开才能看到注释）
+[Motic DSAssistant下载](https://ws.motic.com/en/DSA.zip)
+1. [22-21747(文件夹)](https://pan.baidu.com/s/1SBOtt_E8OdH7lmAQbNm8ZQ) 提取码：rsq2
+2. [22-25887(文件夹)](https://pan.baidu.com/s/1QRaU8YXGtjDpkrQSSB-r3w) 提取码：mtzq
 
-[22-21747.svs](https://pan.baidu.com/s/1VuX18_0kOKZORtFjanHupg) 提取码：hpo0
-
-[22-25887(文件夹)](https://pan.baidu.com/s/1QRaU8YXGtjDpkrQSSB-r3w) 提取码：mtzq
-
-[22-25887.svs](https://pan.baidu.com/s/1HuqFHTyNp8kAdgio9UjdQA) 提取码：hl8p
 ## 图像格式
 - [OME-Supported Formats](https://docs.openmicroscopy.org/bio-formats/6.10.0/supported-formats.html) 
   - [JPEG2000](https://docs.openmicroscopy.org/bio-formats/6.10.0/formats/jpeg-2000.html)
